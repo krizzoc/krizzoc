@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **My Own Projects**
 
-- 🌱 I’m currently learning **Myself**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Daata Structures & Algorithms**
 
