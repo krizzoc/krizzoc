@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Daata Structures & Algorithms**
+- 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **kowshikoff17@gmail.com**
 
