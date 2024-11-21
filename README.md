@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">I'm Kowshik_Krizzoc</h1>
+<h1 align="center">I'm Kowshik</h1>
 <h3 align="center">A Software Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8973493/file/original-138918a921addade8fa3881afdba1c6f.png?resize=752x">
 
